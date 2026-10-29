@@ -14,12 +14,11 @@
 // @run-at       document-idle
 // @grant        none
 // @homepageURL  https://github.com/ilyawhite94-commits/youtube-wide-seekbar
+// @downloadURL  https://raw.githubusercontent.com/ilyawhite94-commits/youtube-wide-seekbar/main/youtube-wide-seekbar.user.js
+// @updateURL    https://raw.githubusercontent.com/ilyawhite94-commits/youtube-wide-seekbar/main/youtube-wide-seekbar.user.js
 // ==/UserScript==
 
-// Когда выложите файл на GitHub / Greasy Fork, добавьте в заголовок выше две строки
-// (с вашей настоящей ссылкой на «Raw»-версию файла), чтобы скрипт обновлялся у людей сам:
-//   // @downloadURL  https://raw.githubusercontent.com/ilyawhite94-commits/youtube-wide-seekbar/main/youtube-wide-seekbar.user.js
-//   // @updateURL    https://raw.githubusercontent.com/ilyawhite94-commits/youtube-wide-seekbar/main/youtube-wide-seekbar.user.js
+
 
 (function () {
   'use strict';
