@@ -82,7 +82,7 @@
       z-index: 60;
       cursor: pointer;
       pointer-events: ${REQUIRE_SHIFT ? 'none' : 'auto'};
-      background: ${DEBUG_VISIBLE ? 'rgba(255,0,0,0.05)' : 'transparent'};
+      background: ${DEBUG_VISIBLE ? 'rgba(255,0,0,0.13)' : 'transparent'};
     }
     html.wsb-shift .wsb-zone { pointer-events: auto; }
   `;
